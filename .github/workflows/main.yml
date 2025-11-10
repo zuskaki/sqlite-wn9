@@ -1,4 +1,4 @@
-name: deploy NotTheSoe
+name: deploy seojunah
 
 on:
   push:
